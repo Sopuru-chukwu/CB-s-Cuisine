@@ -1,0 +1,6 @@
+Array
+(
+    [login] => 1
+    [email] => emar1@gmail.com
+    [success] => Login successful!
+)

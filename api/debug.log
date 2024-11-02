@@ -1,0 +1,702 @@
+Raw Input: Raw Input: Raw Input: {"full_name":"Emmanuel ","phone_number":"+2348160888975","street_address":"134 hyhfyyf fhhf","city":"abuja","postal_code":"800819","country":"nigeria","cart_items":[{"id":5,"title":"Burger","price":"#2,500","img":"/src/assets/img/img2.jpeg","category":"Fast Food","quantity":1},{"id":6,"title":"Salad","price":"#1,500","img":"/src/assets/img/img2.jpeg","category":"Salad","quantity":1},{"id":"1","title":"thhthth","price":"3,0012","img":"imgs/6724e546b86e87.05864220.jpeg","category":"Main Course","quantity":1}],"total_price":34012,"reference":"T964727359950997"}Decoded Data: Array
+(
+    [full_name] => Emmanuel 
+    [phone_number] => +2348160888975
+    [street_address] => 134 hyhfyyf fhhf
+    [city] => abuja
+    [postal_code] => 800819
+    [country] => nigeria
+    [cart_items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 5
+                    [title] => Burger
+                    [price] => #2,500
+                    [img] => /src/assets/img/img2.jpeg
+                    [category] => Fast Food
+                    [quantity] => 1
+                )
+
+            [1] => Array
+                (
+                    [id] => 6
+                    [title] => Salad
+                    [price] => #1,500
+                    [img] => /src/assets/img/img2.jpeg
+                    [category] => Salad
+                    [quantity] => 1
+                )
+
+            [2] => Array
+                (
+                    [id] => 1
+                    [title] => thhthth
+                    [price] => 3,0012
+                    [img] => imgs/6724e546b86e87.05864220.jpeg
+                    [category] => Main Course
+                    [quantity] => 1
+                )
+
+        )
+
+    [total_price] => 34012
+    [reference] => T964727359950997
+)
+Raw Input: {"full_name":"Emmanuel ","phone_number":"+2348160888975","street_address":"134 hyhfyyf fhhf","city":"abuja","postal_code":"800819","country":"nigeria","cart_items":[{"id":5,"title":"Burger","price":"#2,500","img":"/src/assets/img/img2.jpeg","category":"Fast Food","quantity":1},{"id":6,"title":"Salad","price":"#1,500","img":"/src/assets/img/img2.jpeg","category":"Salad","quantity":1},{"id":"1","title":"thhthth","price":"3,0012","img":"imgs/6724e546b86e87.05864220.jpeg","category":"Main Course","quantity":1}],"total_price":34012,"reference":"T849950813554773"}Decoded Data: Array
+(
+    [full_name] => Emmanuel 
+    [phone_number] => +2348160888975
+    [street_address] => 134 hyhfyyf fhhf
+    [city] => abuja
+    [postal_code] => 800819
+    [country] => nigeria
+    [cart_items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 5
+                    [title] => Burger
+                    [price] => #2,500
+                    [img] => /src/assets/img/img2.jpeg
+                    [category] => Fast Food
+                    [quantity] => 1
+                )
+
+            [1] => Array
+                (
+                    [id] => 6
+                    [title] => Salad
+                    [price] => #1,500
+                    [img] => /src/assets/img/img2.jpeg
+                    [category] => Salad
+                    [quantity] => 1
+                )
+
+            [2] => Array
+                (
+                    [id] => 1
+                    [title] => thhthth
+                    [price] => 3,0012
+                    [img] => imgs/6724e546b86e87.05864220.jpeg
+                    [category] => Main Course
+                    [quantity] => 1
+                )
+
+        )
+
+    [total_price] => 34012
+    [reference] => T849950813554773
+)
+Raw Input: Raw Input: {"full_name":"Emmanuel ","phone_number":"+2348160888975","street_address":"134 hyhfyyf fhhf","city":"abuja","postal_code":"800819","country":"nigeria","cart_items":[{"id":5,"title":"Burger","price":"#2,500","img":"/src/assets/img/img2.jpeg","category":"Fast Food","quantity":1},{"id":6,"title":"Salad","price":"#1,500","img":"/src/assets/img/img2.jpeg","category":"Salad","quantity":1},{"id":"1","title":"thhthth","price":"3,0012","img":"imgs/6724e546b86e87.05864220.jpeg","category":"Main Course","quantity":1}],"total_price":34012,"reference":"T143335811980789"}Received data: Array
+(
+    [full_name] => Emmanuel 
+    [phone_number] => +2348160888975
+    [street_address] => 134 hyhfyyf fhhf
+    [city] => abuja
+    [postal_code] => 800819
+    [country] => nigeria
+    [cart_items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 5
+                    [title] => Burger
+                    [price] => #2,500
+                    [img] => /src/assets/img/img2.jpeg
+                    [category] => Fast Food
+                    [quantity] => 1
+                )
+
+            [1] => Array
+                (
+                    [id] => 6
+                    [title] => Salad
+                    [price] => #1,500
+                    [img] => /src/assets/img/img2.jpeg
+                    [category] => Salad
+                    [quantity] => 1
+                )
+
+            [2] => Array
+                (
+                    [id] => 1
+                    [title] => thhthth
+                    [price] => 3,0012
+                    [img] => imgs/6724e546b86e87.05864220.jpeg
+                    [category] => Main Course
+                    [quantity] => 1
+                )
+
+        )
+
+    [total_price] => 34012
+    [reference] => T143335811980789
+)
+Raw Input: Raw Input: Raw Input: {"full_name":"Emmanuel ","phone_number":"+2348160888975","street_address":"134 hyhfyyf fhhf","city":"abuja","postal_code":"800819","country":"nigeria","cart_items":[{"id":5,"title":"Burger","price":"#2,500","img":"/src/assets/img/img2.jpeg","category":"Fast Food","quantity":1},{"id":6,"title":"Salad","price":"#1,500","img":"/src/assets/img/img2.jpeg","category":"Salad","quantity":1},{"id":"1","title":"thhthth","price":"3,0012","img":"imgs/6724e546b86e87.05864220.jpeg","category":"Main Course","quantity":1}],"total_price":34012,"reference":"T027441175806495"}Received data: Array
+(
+    [full_name] => Emmanuel 
+    [phone_number] => +2348160888975
+    [street_address] => 134 hyhfyyf fhhf
+    [city] => abuja
+    [postal_code] => 800819
+    [country] => nigeria
+    [cart_items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 5
+                    [title] => Burger
+                    [price] => #2,500
+                    [img] => /src/assets/img/img2.jpeg
+                    [category] => Fast Food
+                    [quantity] => 1
+                )
+
+            [1] => Array
+                (
+                    [id] => 6
+                    [title] => Salad
+                    [price] => #1,500
+                    [img] => /src/assets/img/img2.jpeg
+                    [category] => Salad
+                    [quantity] => 1
+                )
+
+            [2] => Array
+                (
+                    [id] => 1
+                    [title] => thhthth
+                    [price] => 3,0012
+                    [img] => imgs/6724e546b86e87.05864220.jpeg
+                    [category] => Main Course
+                    [quantity] => 1
+                )
+
+        )
+
+    [total_price] => 34012
+    [reference] => T027441175806495
+)
+Raw Input: {"full_name":"Emmanuel ","phone_number":"+2348160888975","street_address":"ewrrgbd","city":"abuja","postal_code":"800819","country":"nigeria","cart_items":[{"id":5,"title":"Burger","price":"#2,500","img":"/src/assets/img/img2.jpeg","category":"Fast Food","quantity":1},{"id":6,"title":"Salad","price":"#1,500","img":"/src/assets/img/img2.jpeg","category":"Salad","quantity":1},{"id":"1","title":"thhthth","price":"3,0012","img":"imgs/6724e546b86e87.05864220.jpeg","category":"Main Course","quantity":1}],"total_price":34012,"reference":"T487942425770191"}Received data: Array
+(
+    [full_name] => Emmanuel 
+    [phone_number] => +2348160888975
+    [street_address] => ewrrgbd
+    [city] => abuja
+    [postal_code] => 800819
+    [country] => nigeria
+    [cart_items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 5
+                    [title] => Burger
+                    [price] => #2,500
+                    [img] => /src/assets/img/img2.jpeg
+                    [category] => Fast Food
+                    [quantity] => 1
+                )
+
+            [1] => Array
+                (
+                    [id] => 6
+                    [title] => Salad
+                    [price] => #1,500
+                    [img] => /src/assets/img/img2.jpeg
+                    [category] => Salad
+                    [quantity] => 1
+                )
+
+            [2] => Array
+                (
+                    [id] => 1
+                    [title] => thhthth
+                    [price] => 3,0012
+                    [img] => imgs/6724e546b86e87.05864220.jpeg
+                    [category] => Main Course
+                    [quantity] => 1
+                )
+
+        )
+
+    [total_price] => 34012
+    [reference] => T487942425770191
+)
+Raw Input: {"full_name":"Emmanuel Martins","phone_number":"+447956610129","street_address":"77 BEAK STREET","city":"london","postal_code":"W1F 9DB","country":"United Kingdom","cart_items":[{"id":"1","title":"thhthth","price":"3,0012","img":"imgs/6724e546b86e87.05864220.jpeg","category":"Main Course","quantity":1}],"total_price":30012,"reference":"T788418724301489"}Received data: Array
+(
+    [full_name] => Emmanuel Martins
+    [phone_number] => +447956610129
+    [street_address] => 77 BEAK STREET
+    [city] => london
+    [postal_code] => W1F 9DB
+    [country] => United Kingdom
+    [cart_items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [title] => thhthth
+                    [price] => 3,0012
+                    [img] => imgs/6724e546b86e87.05864220.jpeg
+                    [category] => Main Course
+                    [quantity] => 1
+                )
+
+        )
+
+    [total_price] => 30012
+    [reference] => T788418724301489
+)
+Raw Input: {"full_name":"Emmanuel Martins","phone_number":"+447956610129","street_address":"77 BEAK STREET","city":"london","postal_code":"W1F 9DB","country":"United Kingdom","cart_items":[{"id":"1","title":"thhthth","price":"3,0012","img":"imgs/6724e546b86e87.05864220.jpeg","category":"Main Course","quantity":1}],"total_price":30012,"reference":"T766294372432225"}Received data: Array
+(
+    [full_name] => Emmanuel Martins
+    [phone_number] => +447956610129
+    [street_address] => 77 BEAK STREET
+    [city] => london
+    [postal_code] => W1F 9DB
+    [country] => United Kingdom
+    [cart_items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [title] => thhthth
+                    [price] => 3,0012
+                    [img] => imgs/6724e546b86e87.05864220.jpeg
+                    [category] => Main Course
+                    [quantity] => 1
+                )
+
+        )
+
+    [total_price] => 30012
+    [reference] => T766294372432225
+)
+Raw Input: {"full_name":"Emmanuel Martins","phone_number":"+447956610129","street_address":"77 BEAK STREET","city":"london","postal_code":"W1F 9DB","country":"United Kingdom","cart_items":[{"id":"1","title":"thhthth","price":"3,0012","img":"imgs/6724e546b86e87.05864220.jpeg","category":"Main Course","quantity":1}],"total_price":30012,"user_id":null,"reference":"T637708501927994"}Received data: Array
+(
+    [full_name] => Emmanuel Martins
+    [phone_number] => +447956610129
+    [street_address] => 77 BEAK STREET
+    [city] => london
+    [postal_code] => W1F 9DB
+    [country] => United Kingdom
+    [cart_items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [title] => thhthth
+                    [price] => 3,0012
+                    [img] => imgs/6724e546b86e87.05864220.jpeg
+                    [category] => Main Course
+                    [quantity] => 1
+                )
+
+        )
+
+    [total_price] => 30012
+    [user_id] => 
+    [reference] => T637708501927994
+)
+Raw Input: {"full_name":"Emmanuel Martins","phone_number":"+447956610129","street_address":"77 BEAK STREET","city":"london","postal_code":"W1F 9DB","country":"United Kingdom","cart_items":[{"id":"1","title":"thhthth","price":"3,0012","img":"imgs/6724e546b86e87.05864220.jpeg","category":"Main Course","quantity":1}],"total_price":30012,"user_id":null,"reference":"T325453733518111"}Received data: Array
+(
+    [full_name] => Emmanuel Martins
+    [phone_number] => +447956610129
+    [street_address] => 77 BEAK STREET
+    [city] => london
+    [postal_code] => W1F 9DB
+    [country] => United Kingdom
+    [cart_items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [title] => thhthth
+                    [price] => 3,0012
+                    [img] => imgs/6724e546b86e87.05864220.jpeg
+                    [category] => Main Course
+                    [quantity] => 1
+                )
+
+        )
+
+    [total_price] => 30012
+    [user_id] => 
+    [reference] => T325453733518111
+)
+Raw Input: {"full_name":"Emmanuel Martins","phone_number":"+447956610129","street_address":"77 BEAK STREET","city":"london","postal_code":"W1F 9DB","country":"United Kingdom","cart_items":[{"id":"1","title":"thhthth","price":"3,0012","img":"imgs/6724e546b86e87.05864220.jpeg","category":"Main Course","quantity":1}],"total_price":30012,"user_id":null,"reference":"T495333370939679"}Received data: Array
+(
+    [full_name] => Emmanuel Martins
+    [phone_number] => +447956610129
+    [street_address] => 77 BEAK STREET
+    [city] => london
+    [postal_code] => W1F 9DB
+    [country] => United Kingdom
+    [cart_items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [title] => thhthth
+                    [price] => 3,0012
+                    [img] => imgs/6724e546b86e87.05864220.jpeg
+                    [category] => Main Course
+                    [quantity] => 1
+                )
+
+        )
+
+    [total_price] => 30012
+    [user_id] => 
+    [reference] => T495333370939679
+)
+Raw Input: {"full_name":"emmmemme","phone_number":"08160699968","street_address":"jjdjdd ccndcn","city":"Kaduna","postal_code":"800819","country":"nigeria","cart_items":[{"id":"1","title":"thhthth","price":"3,0012","img":"imgs/6724e546b86e87.05864220.jpeg","category":"Main Course","quantity":1}],"total_price":30012,"user_id":null,"reference":"T148561687106156"}Received data: Array
+(
+    [full_name] => emmmemme
+    [phone_number] => 08160699968
+    [street_address] => jjdjdd ccndcn
+    [city] => Kaduna
+    [postal_code] => 800819
+    [country] => nigeria
+    [cart_items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [title] => thhthth
+                    [price] => 3,0012
+                    [img] => imgs/6724e546b86e87.05864220.jpeg
+                    [category] => Main Course
+                    [quantity] => 1
+                )
+
+        )
+
+    [total_price] => 30012
+    [user_id] => 
+    [reference] => T148561687106156
+)
+Raw Input: {"full_name":"ghhyyh","phone_number":"+9089909888","street_address":"56 ghtyyhj nj","city":"Abuja","postal_code":"80819","country":"nigeria","cart_items":[{"id":"1","title":"thhthth","price":"3,0012","img":"imgs/6724e546b86e87.05864220.jpeg","category":"Main Course","quantity":1}],"total_price":30012,"user_id":"3","reference":"T654949258382183"}Received data: Array
+(
+    [full_name] => ghhyyh
+    [phone_number] => +9089909888
+    [street_address] => 56 ghtyyhj nj
+    [city] => Abuja
+    [postal_code] => 80819
+    [country] => nigeria
+    [cart_items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [title] => thhthth
+                    [price] => 3,0012
+                    [img] => imgs/6724e546b86e87.05864220.jpeg
+                    [category] => Main Course
+                    [quantity] => 1
+                )
+
+        )
+
+    [total_price] => 30012
+    [user_id] => 3
+    [reference] => T654949258382183
+)
+Error: Missing dish_id for cart itemCart Items: Array
+(
+    [0] => Array
+        (
+            [title] => thhthth
+            [quantity] => 1
+            [price] => 3,0012
+            [img] => imgs/6724e546b86e87.05864220.jpeg
+        )
+
+)
+Error: Missing dish_id for cart itemOrder ID created: 6Error: Missing fields in cart item: Array
+(
+    [title] => thhthth
+    [quantity] => 1
+    [price] => 3,0012
+    [img] => imgs/6724e546b86e87.05864220.jpeg
+)
+Order ID created: 7Inspecting cart item: Array
+(
+    [title] => thhthth
+    [quantity] => 1
+    [price] => 3,0012
+    [img] => imgs/6724e546b86e87.05864220.jpeg
+)
+Error: Missing fields in cart item: Array
+(
+    [title] => thhthth
+    [quantity] => 1
+    [price] => 3,0012
+    [img] => imgs/6724e546b86e87.05864220.jpeg
+)
+Order ID created: 8Inspecting cart item: Array
+(
+    [title] => thhthth
+    [quantity] => 1
+    [price] => 3,0012
+    [img] => imgs/6724e546b86e87.05864220.jpeg
+)
+Error: Missing fields in cart item: Array
+(
+    [title] => thhthth
+    [quantity] => 1
+    [price] => 3,0012
+    [img] => imgs/6724e546b86e87.05864220.jpeg
+)
+Inspecting cart item: Array
+(
+    [dish_id] => 1
+    [title] => thhthth
+    [quantity] => 1
+    [price] => 3,0012
+    [img] => imgs/6724e546b86e87.05864220.jpeg
+)
+Order Item Inserted: order_id 8, product_id 1, quantity 1, price 30012Order ID created: 9Inspecting cart item: Array
+(
+    [title] => thhthth
+    [quantity] => 1
+    [price] => 3,0012
+    [img] => imgs/6724e546b86e87.05864220.jpeg
+)
+Error: Missing fields in cart item: Array
+(
+    [title] => thhthth
+    [quantity] => 1
+    [price] => 3,0012
+    [img] => imgs/6724e546b86e87.05864220.jpeg
+)
+Inspecting cart item: Array
+(
+    [dish_id] => 1
+    [title] => thhthth
+    [quantity] => 2
+    [price] => 3,0012
+    [img] => imgs/6724e546b86e87.05864220.jpeg
+)
+Order Item Inserted: order_id 9, product_id 1, quantity 2, price 30012Order ID created: 10Inspecting cart item: Array
+(
+    [title] => thhthth
+    [quantity] => 4
+    [price] => 3,0012
+    [img] => imgs/6724e546b86e87.05864220.jpeg
+)
+Error: Missing fields in cart item: Array
+(
+    [title] => thhthth
+    [quantity] => 4
+    [price] => 3,0012
+    [img] => imgs/6724e546b86e87.05864220.jpeg
+)
+Order ID created: 11Inspecting cart item: Array
+(
+    [title] => thhthth
+    [quantity] => 4
+    [price] => 3,0012
+    [img] => imgs/6724e546b86e87.05864220.jpeg
+)
+Error: Missing fields in cart item: Array
+(
+    [title] => thhthth
+    [quantity] => 4
+    [price] => 3,0012
+    [img] => imgs/6724e546b86e87.05864220.jpeg
+)
+Order ID created: 12Inspecting cart item: Array
+(
+    [title] => thhthth
+    [quantity] => 4
+    [price] => 3,0012
+    [img] => imgs/6724e546b86e87.05864220.jpeg
+)
+Error: Missing fields in cart item: Array
+(
+    [title] => thhthth
+    [quantity] => 4
+    [price] => 3,0012
+    [img] => imgs/6724e546b86e87.05864220.jpeg
+)
+Order ID created: 13Inspecting cart item: Array
+(
+    [title] => thhthth
+    [quantity] => 4
+    [price] => 3,0012
+    [img] => imgs/6724e546b86e87.05864220.jpeg
+)
+Error: Missing fields in cart item: Array
+(
+    [title] => thhthth
+    [quantity] => 4
+    [price] => 3,0012
+    [img] => imgs/6724e546b86e87.05864220.jpeg
+)
+Order ID created: 14Inspecting cart item: Array
+(
+    [title] => thhthth
+    [quantity] => 4
+    [price] => 3,0012
+    [img] => imgs/6724e546b86e87.05864220.jpeg
+)
+Error: Missing fields in cart item: Array
+(
+    [title] => thhthth
+    [quantity] => 4
+    [price] => 3,0012
+    [img] => imgs/6724e546b86e87.05864220.jpeg
+)
+Order ID created: 15Inspecting cart item: Array
+(
+    [title] => thhthth
+    [quantity] => 4
+    [price] => 3,0012
+    [img] => imgs/6724e546b86e87.05864220.jpeg
+)
+Error: Missing fields in cart item: Array
+(
+    [title] => thhthth
+    [quantity] => 4
+    [price] => 3,0012
+    [img] => imgs/6724e546b86e87.05864220.jpeg
+)
+Order ID created: 16Inspecting cart item: Array
+(
+    [title] => thhthth
+    [quantity] => 4
+    [price] => 3,0012
+    [img] => imgs/6724e546b86e87.05864220.jpeg
+)
+Error: Missing fields in cart item: Array
+(
+    [title] => thhthth
+    [quantity] => 4
+    [price] => 3,0012
+    [img] => imgs/6724e546b86e87.05864220.jpeg
+)
+Order ID created: 17Inspecting cart item: Array
+(
+    [title] => thhthth
+    [quantity] => 4
+    [price] => 3,0012
+    [img] => imgs/6724e546b86e87.05864220.jpeg
+)
+Error: Missing fields in cart item: Array
+(
+    [title] => thhthth
+    [quantity] => 4
+    [price] => 3,0012
+    [img] => imgs/6724e546b86e87.05864220.jpeg
+)
+Order ID created: 18Inspecting cart item: Array
+(
+    [title] => thhthth
+    [quantity] => 4
+    [price] => 3,0012
+    [img] => imgs/6724e546b86e87.05864220.jpeg
+)
+Error: Missing fields in cart item: Array
+(
+    [title] => thhthth
+    [quantity] => 4
+    [price] => 3,0012
+    [img] => imgs/6724e546b86e87.05864220.jpeg
+)
+Order ID created: 19Inspecting cart item: Array
+(
+    [title] => thhthth
+    [quantity] => 4
+    [price] => 3,0012
+    [img] => imgs/6724e546b86e87.05864220.jpeg
+)
+Error: Missing fields in cart item: Array
+(
+    [title] => thhthth
+    [quantity] => 4
+    [price] => 3,0012
+    [img] => imgs/6724e546b86e87.05864220.jpeg
+)
+Inspecting cart item: Array
+(
+    [dish_id] => 1
+    [title] => thhthth
+    [quantity] => 1
+    [price] => 3,0012
+    [img] => imgs/6724e546b86e87.05864220.jpeg
+)
+Order Item Inserted: order_id 19, product_id 1, quantity 1, price 30012Order ID created: 20Inspecting cart item: Array
+(
+    [dish_id] => 1
+    [title] => thhthth
+    [quantity] => 1
+    [price] => 3,0012
+    [img] => imgs/6724e546b86e87.05864220.jpeg
+)
+Order Item Inserted: order_id 20, product_id 1, quantity 1, price 30012Order ID created: 21Inspecting cart item: Array
+(
+    [dish_id] => 1
+    [title] => thhthth
+    [quantity] => 2
+    [price] => 3,001
+    [img] => imgs/672586a2605002.58487977.jpeg
+)
+Order Item Inserted: order_id 21, product_id 1, quantity 2, price 3001Order ID created: 1Inspecting cart item: Array
+(
+    [dish_id] => 1
+    [title] => Pizza
+    [quantity] => 1
+    [price] => 3,001
+    [img] => imgs/6725ce05b4cc61.41571137.jpeg
+)
+Order Item Inserted: order_id 1, product_id 1, quantity 1, price 3001Inspecting cart item: Array
+(
+    [dish_id] => 7
+    [title] => Shawarma
+    [quantity] => 1
+    [price] => 3,500
+    [img] => imgs/6725d2cfb1da38.46521644.img2.jpeg
+)
+Order Item Inserted: order_id 1, product_id 7, quantity 1, price 3500Order ID created: 2Inspecting cart item: Array
+(
+    [dish_id] => 1
+    [title] => Pizza
+    [quantity] => 1
+    [price] => 3,001
+    [img] => imgs/6725ce05b4cc61.41571137.jpeg
+)
+Order Item Inserted: order_id 2, product_id 1, quantity 1, price 3001Inspecting cart item: Array
+(
+    [dish_id] => 7
+    [title] => Shawarma
+    [quantity] => 1
+    [price] => 3,500
+    [img] => imgs/6725d2cfb1da38.46521644.img2.jpeg
+)
+Order Item Inserted: order_id 2, product_id 7, quantity 1, price 3500Order ID created: 3Inspecting cart item: Array
+(
+    [dish_id] => 10
+    [title] => Isi Ewu
+    [quantity] => 1
+    [price] => 4,000
+    [img] => http://localhost/restoweb/admin/imgs/default-image.jpg
+)
+Order Item Inserted: order_id 3, product_id 10, quantity 1, price 4000Inspecting cart item: Array
+(
+    [dish_id] => 7
+    [title] => Shawarma
+    [quantity] => 1
+    [price] => 3,500
+    [img] => http://localhost/restoweb/admin/imgs/default-image.jpg
+)
+Order Item Inserted: order_id 3, product_id 7, quantity 1, price 3500Inspecting cart item: Array
+(
+    [dish_id] => 9
+    [title] => Pepper Soup
+    [quantity] => 1
+    [price] => 5,000
+    [img] => http://localhost/restoweb/admin/imgs/default-image.jpg
+)
+Order Item Inserted: order_id 3, product_id 9, quantity 1, price 5000
